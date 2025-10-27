@@ -2,4 +2,4 @@
 
 - 💬 sobre mim: estudante de programação
 - 📫 contato:gabrielteixeiranovo@gmail.com
--☕ foco: back-end
+- ☕ foco: back-end
