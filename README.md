@@ -2,5 +2,5 @@
 
 - 💬 sobre mim: estudante de engenharia de software
 - 📫 contato:gt574617@gmail.com
-- ☕ foco: Front-end e Back-end
+- ☕ foco: Full Stack
   
