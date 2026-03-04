@@ -47,17 +47,6 @@ Me chamo Gabriel Teixeira e sou estudante de Bacharelado em Engenharia de Softwa
     src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" 
 />
 
-
-
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-
 <img 
     align="left" 
     alt="Git" 
