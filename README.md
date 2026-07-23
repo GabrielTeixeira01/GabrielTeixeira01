@@ -2,7 +2,7 @@
 
 **`Desenvolvedor-FullStack`**
 
-Me chamo Gabriel Teixeira e sou estudante de Bacharelado em Engenharia de Software na Universidade Veiga de Almeida (UVA) estou em busca de oportunidades que me permitam expandir meus conhecimentos, desenvolver habilidades e crescer profissionalmente na área da tecnologia".
+Me chamo Gabriel Teixeira e sou estudante de Bacharelado em Engenharia de Software na Universidade Veiga de Almeida (UVA) e ja atuo na área como desenvolvedor de sistemas
 ### 🤖 Linguagens e Tecnologias
 
 <img 
