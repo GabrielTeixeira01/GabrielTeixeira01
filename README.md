@@ -1,9 +1,10 @@
-#  👨‍💻 Desenvolvedor Full-Stack
+# 👨‍💻 Full-Stack Developer
 
-**`Desenvolvedor-FullStack`**
+**`Full-Stack Developer`**
 
-Me chamo Gabriel Teixeira e sou estudante de Bacharelado em Engenharia de Software na Universidade Veiga de Almeida (UVA) e ja atuo na área como desenvolvedor de sistemas
-### 🤖 Linguagens e Tecnologias
+My name is Gabriel Teixeira. I am pursuing a bachelor's degree in Software Engineering at Universidade Veiga de Almeida (UVA) and already work professionally as a systems developer.
+
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
