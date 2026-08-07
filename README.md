@@ -100,8 +100,4 @@ My name is Gabriel Teixeira. I am pursuing a bachelor's degree in Software Engin
 <br/>
 <br clear="both">
 
-<h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GabrielTeixeira01/GabrielTeixeira01/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
